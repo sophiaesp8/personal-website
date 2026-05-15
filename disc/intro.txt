@@ -1,0 +1,40 @@
+
+	1	My Chinese Name:N/A
+	2	My English Name:Sophia Solorzano 
+	3	Current School / Department / Year:National Taipei University of Technology/ Business Department/ 2026
+	4	Graduate Study or Career Goals:
+Graduate Study Fields:Marketing, Management, Accounting, Data Science 
+Career Goals:Marketing Specialist, Event Planner 
+	5	One-Sentence Self Introduction:AlthoughI may still be at the beginning of my professional career, but I’m persistent, thoughtful, and genuinely committed to doing my best work while sharing my intercultural perspective and knowledge. I am sometimes slow to react, I am someone who can discover problems in everyday life and think about how future technology can help people live better lives.
+	6	My 3 Personal Traits:
+	•	Creative and enthusiastic person
+	•	Caring and Loving person towards animals and people 
+	•	Experienced many extraordinary things in life and I feel accomplished for been 22 years old. 
+	7	My 5 Main Skills:
+	•	Using AI tools to organize ideas and generate project concepts
+	•	Basic web design: HTML / CSS
+	•	Presentation and storytelling skills
+	•	User needs observation and scenario analysis
+	•	Future gadget concept ideation and product planning
+	8	2–3 Projects I Have Worked On:
+Project 1: AA+ Cultural Heritage Creative Awards 2026, Taiwan  I directed visual identity using Generative AI for storytelling-driven branding
+Led creative direction and strategic brand positioning for Taiwanese heritage projects. 
+Project 2: AI for the Future – SME Bank Campus FinTech Innovation Challenge, Taiwan  Developed a new FinTech business idea and defined its marketing strategy and Collaborated in a multidisciplinary team and supported the final pitch
+
+
+	9	The Strength I Most Want Others to See:I may not be the smartest or quickest person, but I deeply understand the frustrations ordinary students face in learning, relationships, and daily life. I hope to design technology products that genuinely help people.
+	10	My Learning and Work Experience:
+	•	Studied courses such as Introduction to Future Technology, Interaction Design, Basic Programming, Educational Technology, and User Experience Design
+	•	Participated in a “Future Gadgets and Everyday Problem Solving” project, responsible for scenario ideation, user stories, and presentation design
+	•	Helped classmates organize study materials, plan study schedules, and design simple learning reminder tools
+	•	Often played the role of identifying user difficulties and checking whether products were truly user-friendly in team projects
+	11	Awards, Certifications, and Achievements:
+	•	Honorable Mention in the university’s “Future Life Creative Proposal” competition
+	•	Completed a foundational AI tools application course
+	•	Built and deployed a personal introduction website using GitHub Pages
+	•	Participated in a “Children’s Learning Companion Product” project exhibition
+	•	Gave a presentation titled “What If the Anywhere Door Became Public Transportation?”
+	12	Contact Information:Email: sophia.solorzano39@gmail.com GitHub: sophiaesp8LinkedIn: sophiaesp8Personal Website: ---
+	13	My Personal Photo:It is recommended to use a friendly and natural half-body student-style photo.Suggested style: glasses, yellow shirt, blue shorts, or simple casual clothing. Backgrounds such as a desk, bedroom, school hallway, or open campus space would work well.
+	14	My Resume PDF:
+	15	Preferred Website Style:A warm, bright personal website style with a Japanese manga-inspired atmosphere combined with a futuristic technology feeling.Suggested main colors: yellow, blue, white, and light gray. The layout should feel simple, friendly, and not overly formal.The website could include sections such as “Future Gadget Cards,” “Life Problem-Solving Cases,” and “My Growth Timeline.”
